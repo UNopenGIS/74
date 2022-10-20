@@ -14,5 +14,6 @@ To support educational campuses and potentially other premises by equitable smar
 ## Owner
 
 ## Particiapnts
+- Santosh
 - @mapconcierge
 - @hfu
